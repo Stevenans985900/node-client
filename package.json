@@ -36,7 +36,7 @@
     "iced-logger": "0.0.5",
     "iced-runtime": ">=1.0.3",
     "iced-spawn": ">=1.0.0",
-    "iced-utils": "0.1.22",
+    "iced-utils": "0.1.27",
     "kbpgp": ">=2.0.46",
     "keybase-installer": "1.0.2",
     "keybase-path": "0.0.16",
